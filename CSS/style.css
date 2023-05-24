@@ -5,6 +5,7 @@
 }
 body {
     background-color: #F2F2F2;
+    overflow-x: hidden;
 }
 @font-face {
     font-family: 'Gotham';
@@ -553,7 +554,7 @@ and (max-device-width : 480px) {
         height: 50px;
     }
     .main_5_block_2_form_1_inp {
-        width: 330px;
+        width: 335px;
     }
     .main_6 {
         flex-direction: column;
